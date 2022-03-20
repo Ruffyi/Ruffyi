@@ -3,7 +3,7 @@
 <div align="center">
 <p>🔭 I’m currently working  on self-development </p>
 
-<p>🌱 I’m currently learning **Frontend Stack with SCSS + React and Backend Stack MEN**</p>
+<p>🌱 I’m currently learning **Docker and Kubernetes**</p>
 
 <p>👯 I’m looking to collaborate on **front-end and back-end projects**</p>
 
